@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-"""CNN_week9.ipynb
 
-IST597 :- Implementing CNN from scratch
-Week 9 Tutorial
+Lab 3 
 
-Author:- aam35
-"""
+Author:- vt485
+
 
 import tensorflow as tf
 import numpy as np
